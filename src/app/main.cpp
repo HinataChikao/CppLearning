@@ -1,4 +1,4 @@
-/* */
+/* learning C/C++ while using and learning Git  */
 
 #include <iostream>
 
