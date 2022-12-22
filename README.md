@@ -1,3 +1,4 @@
 # C plus plus Learning
-this codes are all my practice for learning C/C++.
-this is my new line.
+This codes are all my practice for learning C/C++.
+This is my new line.
+
