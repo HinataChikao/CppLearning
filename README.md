@@ -1,4 +1,3 @@
-# CppLearning
+# C plus plus Learning
 this codes are all my practice for learning C/C++
-adding this line for test.
-adding another line to the readme file.
+I try to learn Microsoft Rest API SDK.
